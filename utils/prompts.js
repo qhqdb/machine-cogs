@@ -1,4 +1,4 @@
-const database = require("./queryUtil");
+const database = require("./query");
 
 const PROMPTS = {
 	KEYS: {
