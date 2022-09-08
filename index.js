@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const QUESTIONS = require("./util/prompts");
+const PROMPTS = require("./util/prompts");
 const database = require("./util/query");
 
 function init() {
