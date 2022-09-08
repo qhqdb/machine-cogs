@@ -7,5 +7,5 @@ A simple CLI application and CMS for keeping track of a company's structure and 
 ## Dependencies
 
 ## How to Use
-
+Clone this repository, 'npm i', then 'node index.js'.
 ##
