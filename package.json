@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Axeljk/uw_m12_employee.git"
+      "url": "git+https://github.com/west-korea/machine-cogs.git"
     },
-    "author": "Axeljk",
+    "author": "west-korea",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/Axeljk/uw_m12_employee/issues"
+      "url": "https://github.com/west-korea/machine-cogs/issues"
     },
-    "homepage": "https://github.com/Axeljk/uw_m12_employee#readme",
+    "homepage": "https://github.com/west-korea/machine-cogs#readme",
     "dependencies": {
       "console.table": "^0.10.0",
       "inquirer": "^8.2.4",
