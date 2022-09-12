@@ -12,9 +12,14 @@ A simple CLI application and CMS for keeping track of a company's structure and 
 
 ## Dependencies
 `npm install inquirer`
+
 `npm install mysql2`
+
 `npm install console.table`
 
 ## How to Use
-Clone this repository, 'npm i', then 'node index.js'.
+Clone this repository,
+establish mysql database,
+install dependencies (`npm i`),
+and run 'node index.js'.
 ##
