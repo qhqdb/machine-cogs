@@ -19,7 +19,10 @@ A simple CLI application and CMS for keeping track of a company's structure and 
 
 ## How to Use
 Clone this repository,
+
 establish mysql database,
+
 install dependencies (`npm i`),
+
 and run 'node index.js'.
 ##
