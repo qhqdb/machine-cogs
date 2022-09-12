@@ -24,5 +24,5 @@ establish mysql database,
 
 install dependencies (`npm i`),
 
-and run 'node index.js'.
+and run `node index.js`.
 ##
