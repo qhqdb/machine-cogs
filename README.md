@@ -1,9 +1,9 @@
 # Employee Tracker
 
 <p align="center">
-    <img src="https://img.shields.io/badge/inquirer-yellow" />
-    <img src="https://img.shields.io/badge/nysql2-blue"  />
-    <img src="https://img.shields.io/badge/consoletable-orange" />
+    <img src="https://img.shields.io/badge/Inquirer-yellow" />
+    <img src="https://img.shields.io/badge/MySQL2-blue"  />
+    <img src="https://img.shields.io/badge/console.table-orange" />
 </p>
 
 
