@@ -25,4 +25,6 @@ establish mysql database,
 install dependencies (`npm i`),
 
 and run `node index.js`.
-##
+
+##Walkthrough
+Please see walkthrough video in demo folder.
